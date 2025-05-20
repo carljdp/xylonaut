@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xylonaut.Cli", "Xylonaut.Cli\Xylonaut.Cli.csproj", "{496C821A-5F40-4D30-B9E1-7EEA1E55CCCA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D30233D2-53D7-4001-AEBB-02C9BFB5AFBB}"
+	ProjectSection(SolutionItems) = preProject
+		compose.yaml = compose.yaml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{496C821A-5F40-4D30-B9E1-7EEA1E55CCCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{496C821A-5F40-4D30-B9E1-7EEA1E55CCCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{496C821A-5F40-4D30-B9E1-7EEA1E55CCCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{496C821A-5F40-4D30-B9E1-7EEA1E55CCCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+﻿<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="compose.yaml" />
+  </Folder>
+  <Project Path="Xylonaut.Cli\Xylonaut.Cli.csproj" Type="Classic C#" />
+</Solution>

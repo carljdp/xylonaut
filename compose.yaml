@@ -1,0 +1,6 @@
+﻿services:
+  xylonaut:
+    image: xylonaut-cli
+    build:
+      context: .
+      dockerfile: Xylonaut.Cli/Dockerfile
